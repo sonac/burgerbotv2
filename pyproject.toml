@@ -1,0 +1,14 @@
+[tool.pdm]
+
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "sonac", email = "sonag007@gmail.com"},
+]
+dependencies = [
+    "sanic>=22.12.0",
+]
+requires-python = ">=3.11"
+license = {text = "MIT"}
